@@ -1,8 +1,10 @@
 import React from "react";
-import Contact from "./Contact";
 
 function App(){
     return
-    <Contact />
+    <div>
+        This App file
+    </div>
 }
-export default App;
+
+export default  App;
